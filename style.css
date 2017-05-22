@@ -1,0 +1,37 @@
+.container{
+  margin: 0 auto;
+  text-align: center;
+}
+
+.booglepicture{
+  top: 200px;
+
+}
+
+.resize{
+  width: 300px;
+  height: auto;
+}
+
+.search{
+
+}
+
+.buttons{
+
+}
+
+#button{
+  font-family: Times New Roman;
+}
+
+
+.language{
+
+}
+
+#searchfield{
+  width: 459px;
+  height: 34px;
+
+}
